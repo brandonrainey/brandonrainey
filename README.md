@@ -1,4 +1,4 @@
-Hi 👋 My name is Brandon Rainey
+Hi, My name is Brandon Rainey
 ===============================
 
 Frontend Developer
